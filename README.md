@@ -23,6 +23,6 @@ I find data analysis so interesting because it helps making sense of a complex w
 
 - Recently completed [several projects in business data analytics](http://www.google.com) at [Turing College](https://www.turingcollege.com/) and gained experience in fundamental tools such as SQL (Bigquery), Google Sheets and Tableau
 
-Feel free to scroll through my repos, and to check [my (recently started) website](https://leonardoc.netlify.app/)
+Feel free to scroll through the [index of my repos](https://github.com/leonardocerliani/INDEX_all_repos/blob/main/README.md), or check [my (recently started) website](https://leonardoc.netlify.app/)
 
 All the best! 🤗 Leonardo
