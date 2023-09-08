@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 
 _"Information is the resolution of uncertainty" - (Claude Shannon)_
 
-I find data analysis so interesting because it helps making sense of a complex world - especially the human part of it.
+I find data analysis so interesting because it helps making sense of a complex world.
 
-- Long-term experience in data analysis, acquired mostly in [brain imaging][link_publications], with some intermissions in ETL and [Photobiology](https://github.com/leonardocerliani/spectramap). 
+- Long-term experience in data analysis, acquired mostly in [brain imaging](https://scholar.google.com/citations?user=Yo8tYMMAAAAJ&hl=en), with some intermissions in ETL and [Photobiology](https://github.com/leonardocerliani/spectramap). 
 
+- Strong preference for [R](https://www.r-project.org/), thanks to its clean syntax, emphasis on reproducibility, report-generation capabilities, and [RStudio IDE](https://www.rstudio.com/products/shiny/) for web app and dashboard development
 
-- Recently completed [several projects](google.com) in business data analytics at [Turing College](https://www.turingcollege.com/)
+- Recently completed [several projects](google.com) in business data analytics at [Turing College](https://www.turingcollege.com/) and gained experience in fundamental tools such as SQL (Bigquery), Google Sheets and Tableau
+
+Feel free to scroll through my repos, and to check [my (recently started) website](https://leonardoc.netlify.app/)
+
+All the best! 🤗 Leonardo
