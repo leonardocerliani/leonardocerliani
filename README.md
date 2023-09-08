@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+_"Information is the resolution of uncertainty" - (Claude Shannon)_
+
+I have a long-term experience in **data analysis**, acquired mostly in **brain imaging**, with some intermissions in **ETL** and **Photobiology**. 
+
+At the end of the day, using statistics to discover patterns. Better if unexpected.
