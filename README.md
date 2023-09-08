@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 _"Information is the resolution of uncertainty" - (Claude Shannon)_
 
-I have a long-term experience in **data analysis**, acquired mostly in **brain imaging**, with some intermissions in **ETL** and **Photobiology**. 
+I find data analysis so interesting because it helps making sense of a complex world - especially the human part of it.
 
-At the end of the day, using statistics to discover patterns. Better if unexpected.
+- Long-term experience in data analysis, acquired mostly in [brain imaging][link_publications], with some intermissions in ETL and [Photobiology](https://github.com/leonardocerliani/spectramap). 
+
+
+- Recently completed [several projects](google.com) in business data analytics at [Turing College](https://www.turingcollege.com/)
