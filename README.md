@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-_"Information is the resolution of uncertainty" - (Claude Shannon)_
+_**"Information is the resolution of uncertainty"** - (Claude Shannon)_
 
 I find data analysis so interesting because it helps making sense of a complex world.
 
