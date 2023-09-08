@@ -17,7 +17,7 @@ _**"Information is the resolution of uncertainty"** - (Claude Shannon)_
 
 I find data analysis so interesting because it helps making sense of a complex world.
 
-- Long-term experience in data analysis, acquired mostly in [brain imaging](https://scholar.google.com/citations?user=Yo8tYMMAAAAJ&hl=en), with some intermissions in ETL and [Photobiology](https://github.com/leonardocerliani/spectramap). 
+- Long-term experience in data analysis, acquired mostly in [Brain Imaging](https://scholar.google.com/citations?user=Yo8tYMMAAAAJ&hl=en), with some intermissions in ETL and [Photobiology](https://github.com/leonardocerliani/spectramap). 
 
 - Strong preference for [R](https://www.r-project.org/), thanks to its clean syntax, emphasis on reproducibility, report-generation capabilities, and [RStudio IDE](https://www.rstudio.com/products/shiny/) for web app and dashboard development
 
