@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 _**"Information is the resolution of uncertainty"** - (Claude Shannon)_
 
-I find data analysis so interesting because it helps making sense of a complex world.
+I find data analysis compelling because it helps making sense of a complex world.
 
 - Long-term experience in data analysis, acquired mostly in [Brain Imaging](https://scholar.google.com/citations?user=Yo8tYMMAAAAJ&hl=en), with some intermissions in ETL and [Photobiology](https://github.com/leonardocerliani/spectramap). 
 
