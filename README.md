@@ -21,7 +21,7 @@ I find data analysis compelling because it helps making sense of a complex world
 
 - Strong preference for [R](https://www.r-project.org/), thanks to its clean syntax, emphasis on reproducibility, report-generation capabilities, and [RStudio IDE](https://www.rstudio.com/products/shiny/) for web app and dashboard development
 
-- Recently completed [several projects in business data analytics]([http://www.google.com](https://github.com/leonardocerliani/TC_projects) at [Turing College](https://www.turingcollege.com/) and gained experience in fundamental tools such as SQL (Bigquery), Google Sheets and Tableau
+- Recently completed [several projects in business data analytics](https://github.com/leonardocerliani/TC_projects) at [Turing College](https://www.turingcollege.com/) and gained experience in fundamental tools such as SQL (Bigquery), Google Sheets and Tableau
 
 Feel free to scroll through the [index of my repos](https://github.com/leonardocerliani/INDEX_all_repos/blob/main/README.md), or check [my (recently started) website](https://leonardoc.netlify.app/)
 
