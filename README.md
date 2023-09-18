@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 _**"Information is the resolution of uncertainty"** - (Claude Shannon)_
 
-Having tons of _data_ is useful only as long as we can extract some valuable _information_ from it. Investigating small and big data to find interesting information is what I have done for a substantial part of my life. And I still love it. 
+Having tons of _data_ is useful only as long as we can extract some valuable _information_ from it. 
+
+Investigating small and big data to find interesting information is what I have done for a substantial part of my life. And I still love it. 
 
 - Long-term experience in data analysis, acquired mostly in [Brain Imaging](https://scholar.google.com/citations?user=Yo8tYMMAAAAJ&hl=en), with some intermissions in ETL and [Photobiology](https://github.com/leonardocerliani/spectramap). 
 
