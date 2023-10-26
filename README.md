@@ -25,6 +25,6 @@ Investigating small and big data to find interesting information is what I have 
 
 - Recently completed [several projects in business data analytics](https://github.com/leonardocerliani/TC_projects) at [Turing College](https://www.turingcollege.com/) and gained experience in fundamental tools such as SQL (Bigquery), Google Sheets and Tableau
 
-Feel free to scroll through the [index of my repos](https://github.com/leonardocerliani/INDEX_all_repos/blob/main/README.md), or check [my (recently started) website](https://leonardoc.netlify.app/)
+Feel free to scroll through the [index of my repos](https://github.com/leonardocerliani/INDEX_all_repos/blob/main/README.md), visit [my (recently started) website](https://leonardoc.netlify.app/) or have a look at [my resumé](https://github.com/leonardocerliani/leonardocerliani/blob/main/Resume_Leonardo_Cerliani.pdf)
 
 All the best! 🤗 Leonardo
